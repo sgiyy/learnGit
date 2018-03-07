@@ -1,5 +1,5 @@
 <div style="text-align: center;padding-bottom: 50px">
-  <img src="./images/Git-Logo.png" width="200"> 
+  <img src="./images/Git-Logo.png" width="200 "> 
 </div>
 
 下面是一些很好的 Git 包括入门和深入的教程，可以帮助开发者很快的提高自己使用 Git 的能力，提高在工作中的效率。
